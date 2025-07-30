@@ -5,12 +5,12 @@ Desarrolladora de software que siempre anda aprendiendo algo
 ---
 
 ## 🚀 Tecnologías y herramientas
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow)](https://github.com/yaidi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaidi&show_icons=true&theme=synthwave)
 ---
 
 ## 📌 Actualmente enfoco mi tiempo en:
 
-- [Eleuteria](https://github.com/Yaidi/eleuteria-scribe-flow) App de Escritorio Open Source para escribir una Novela o tu Tesis
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow)](https://github.com/yaidi/github-readme-stats)
 
 ---
 
