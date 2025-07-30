@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Qui onda! Soy Yaidi
 
-<!--
-**Yaidi/yaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora de software que siempre anda aprendiendo algo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaidi&layout=compact&theme=synthwave)
+---
+
+## 📌 Actualmente enfoco mi tiempo en:
+
+- [Eleuteria](https://github.com/Yaidi/eleuteria-scribe-flow) App de Escritorio Open Source para escribir una Novela o tu Tesis
+
+---
+
+## 🤝 Conectemos
+
+Si compartimos intereses, quieres colaborar o simplemente charlar sobre desarrollo, arquitectura o productividad, ¡me encantaría saber de ti!
+
+📬 [LinkedIn](https://www.linkedin.com/in/yaidi-garcia/) | ✉️ yaidi.garcia.lopez@gmail.com
+
+---
+
+_“Hazlo simple, hazlo útil, hazlo bien.”_
+
