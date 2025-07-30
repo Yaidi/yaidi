@@ -22,5 +22,5 @@ Si compartimos intereses, quieres colaborar o simplemente charlar sobre desarrol
 
 ---
 
-_“Hazlo simple, hazlo útil, hazlo bien.”_
+_“Un gran poder lleva una gran responsabilidad”_
 
