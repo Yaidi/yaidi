@@ -10,7 +10,7 @@ Desarrolladora de software que siempre anda aprendiendo algo
 
 ## 📌 Actualmente enfoco mi tiempo en:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow&theme=synthwave)](https://github.com/yaidi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow&theme=synthwave)](https://github.com/yaidi/github-readme-stats)
 
 ---
 
