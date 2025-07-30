@@ -5,7 +5,7 @@ Desarrolladora de software que siempre anda aprendiendo algo
 ---
 
 ## 🚀 Tecnologías y herramientas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaidi&layout=compact&theme=synthwave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yaidi/github-readme-stats)
 ---
 
 ## 📌 Actualmente enfoco mi tiempo en:
