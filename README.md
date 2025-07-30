@@ -5,7 +5,7 @@ Desarrolladora de software que siempre anda aprendiendo algo
 ---
 
 ## 🚀 Tecnologías y herramientas
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yaidi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow)](https://github.com/yaidi/github-readme-stats)
 ---
 
 ## 📌 Actualmente enfoco mi tiempo en:
